@@ -18,6 +18,9 @@ We will evaluate the performance of these models and make a recommendation on wh
 ## Results:
 
 ### RandomOverSampler model
+
+![Alt text](https://github.com/sofiwolfes/Credit_Risk_Analysis/blob/main/Resources/1%20RandomOverSampler%20model.png)
+
 The balanced accuracy score is 65%
 
 The high_risk precision is: 1% 
@@ -28,6 +31,9 @@ The low_risk recall is: 68%
 
 
 ### SMOTE model
+
+![Alt text](https://github.com/sofiwolfes/Credit_Risk_Analysis/blob/main/Resources/2%20SMOTE%20model.png)
+
 The balanced accuracy score is 62%
 
 The high_risk precision is: 1% 
@@ -38,6 +44,9 @@ The low_risk recall is: 64%
 
 
 ### ClusterCentroids model
+
+![Alt text](https://github.com/sofiwolfes/Credit_Risk_Analysis/blob/main/Resources/3%20ClusterCentroids%20model.png)
+
 The balanced accuracy score is 52%
 
 The high_risk precision is: 1% 
@@ -48,6 +57,9 @@ The low_risk recall is: 44%
 
 
 ### SMOTEENN model
+
+![Alt text](https://github.com/sofiwolfes/Credit_Risk_Analysis/blob/main/Resources/4%20SMOTEENN%20model.png)
+
 The balanced accuracy score is 62%
 
 The high_risk precision is: 1% 
@@ -58,6 +70,9 @@ The low_risk recall is: 54%
 
 
 ### BalancedRandomForestClassifier model
+
+![Alt text](https://github.com/sofiwolfes/Credit_Risk_Analysis/blob/main/Resources/5%20BalancedRandomForestClassifier%20model.png)
+
 The balanced accuracy score is 79%
 
 The high_risk precision is: 3% 
@@ -68,6 +83,9 @@ The low_risk recall is: 87%
 
 
 ### EasyEnsembleClassifier model
+
+![Alt text](https://github.com/sofiwolfes/Credit_Risk_Analysis/blob/main/Resources/6%20EasyEnsembleClassifier%20model.png)
+
 The balanced accuracy score is 93%
 
 The high_risk precision is: 9% 
